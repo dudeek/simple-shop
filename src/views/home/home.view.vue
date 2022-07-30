@@ -1,9 +1,9 @@
-<script lang="ts">
-import vMainTemplate from "@/views/main-template/main-template.view.vue";
+<script setup lang="ts">
+import mainTemplate from '@/views/main-template/main-template.view.vue';
 </script>
 
 <template>
-  <v-main-template />
+  <main-template />
   <div>Home</div>
 </template>
 
